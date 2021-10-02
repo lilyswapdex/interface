@@ -1,0 +1,6 @@
+name = "lilyswap-app-temp"
+type = "javascript"
+route = "trade.lilyswap.app/*"
+
+[site]
+bucket = "./build"
